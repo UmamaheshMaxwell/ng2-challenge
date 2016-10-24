@@ -75,3 +75,8 @@ md-sidenav-layout.m2app-dark {
 a{
   color: white;
 }
+
+.imgSize {
+width:"150"; 
+height:"100";
+}
